@@ -1,1 +1,1 @@
-# Project SariRotea bukan sari roti ya..
+# Bismillah Anak Lanang
