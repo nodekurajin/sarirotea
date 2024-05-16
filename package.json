@@ -10,16 +10,28 @@
   "license": "ISC",
   "dependencies": {
     "@alvanero/tehpochi01": "^1.1.4",
+    "@nodekurajin/jatimulyoteteh": "^1.1.8",
     "aingtea": "^1.0.5",
+    "anakketiga": "^1.0.1",
+    "anaklanangtea": "^1.0.1",
+    "anakwadontea": "^1.0.1",
+    "axios": "^1.6.8",
+    "gerimismalamsenin": "^1.0.2",
     "jatimulyoteteh": "^1.1.1",
     "kurakurajin": "^1.0.4",
     "kuranuxt": "^1.0.10",
     "manehnatea": "^1.0.2",
+    "mangudinlagirajin": "^1.0.1",
+    "markitea": "^1.0.5",
     "nodekurajintea": "^1.3.7",
-    "rejekiteteh": "^1.0.6",
-    "sawahkatayan": "^1.0.3"
+    "patepangdeui": "^1.0.1",
+    "pileuleuyantea": "^1.0.2",
+    "rejekiteteh": "^1.0.8",
+    "sarirotea": "^1.0.1",
+    "sawahkatayan": "^1.0.3",
+    "sedanbosok": "^1.0.1",
+    "tehmusimhujan": "^1.0.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nodekurajin/sarirotea.git"
